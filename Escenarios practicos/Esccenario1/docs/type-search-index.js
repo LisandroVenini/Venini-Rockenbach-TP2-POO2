@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"modelos","l":"Division"},{"p":"modelos","l":"DivisionPorCeroException"}];updateSearchResults();

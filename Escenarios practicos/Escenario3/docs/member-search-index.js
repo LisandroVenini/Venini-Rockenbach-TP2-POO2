@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"modelos","c":"CalculadoraIMC","l":"CalculadoraIMC()","u":"%3Cinit%3E()"},{"p":"modelos","c":"CalculadoraIMC","l":"calcularIMC(double, double)","u":"calcularIMC(double,double)"}];updateSearchResults();

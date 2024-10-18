@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"modelos","c":"Obsoleto","l":"nuevoMetodo()"},{"p":"modelos","c":"Obsoleto","l":"Obsoleto()","u":"%3Cinit%3E()"},{"p":"modelos","c":"Obsoleto","l":"viejoMetodo()"}];updateSearchResults();
